@@ -17,11 +17,11 @@ O programa permite saber o total de palavras diferentes contidas no arquivo.txt 
 
 **Exemplo**
 
-*ENTRADA*
+***Entrada***
 
 arquivo.txt = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lacus dolor. Donec a orci a lorem sollicitudin fringilla tempus quis massa. Duis eu nisl eu urna sollicitudin vestibulum eu eget erat."
 
-*SAÍDA*
+***Saída***
 
 a, 2
 
