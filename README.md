@@ -1,17 +1,17 @@
-# Dicionário e Contador de Palavras
+# Dicionário e Contador de Palavras 📰
 
 Projeto desenvolvido para a disciplina **Algoritmo e Programação II**, com o objetivo de implementar um dicionário que funciona para um "arquivo.txt" inserido no diretório do programa.  
 
 ---
 
-# Integrantes do Grupo
+# Integrantes do Grupo 👥
 **Turma 02P**
 - Klaus Gustavo Castelein Ricieri Moura
 - Bruno Matheus Garutti Pinto
 - Ana Julia Almeida
 ---
 
-# Funcionalidades
+# Funcionalidades 🛠️
 
 O programa permite saber o total de palavras diferentes contidas no arquivo.txt e a quantidade de vezes que cada uma delas se repetiu no arquivo. O programa também desconsidera espaços e caracteres não alfabéticos (tais como "!, ?, :, &, etc").
 
