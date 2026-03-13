@@ -6,9 +6,9 @@ Projeto desenvolvido para a disciplina **Algoritmo e Programação II**, com o o
 
 # Integrantes do Grupo
 **Turma 02P**
-- Klaus Gustavo Castelein Ricieri Moura - 10735808  
-- Bruno Matheus Garutti Pinto - 10736747
-- Ana Julia Almeida - 10735831
+- Klaus Gustavo Castelein Ricieri Moura
+- Bruno Matheus Garutti Pinto
+- Ana Julia Almeida
 ---
 
 # Funcionalidades
