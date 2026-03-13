@@ -1,9 +1,9 @@
 /*Projeto 2 - Algoritmo e Programação II
 
 Grupo:
-- Klaus Gustavo Castelein Ricieri Moura - 10735808
-- Bruno Matheus Garutti Pinto - 10736747
-- Ana Julia Almeida - 10735831
+- Klaus Gustavo Castelein Ricieri Moura
+- Bruno Matheus Garutti Pinto
+- Ana Julia Almeida
 */
 
 #include <stdio.h>
@@ -129,4 +129,5 @@ void imprimirDicionario(char palavras[][TAMANHO_PALAVRA], int frequencias[], int
 
     // Imprime o total de palavras diferentes
     printf("total de palavras diferentes no dicionario = %d\n", totalPalavrasUnicas);
+
 }
